@@ -1,0 +1,2 @@
+# objc_class_cache
+自定义objc_class的cache成员
